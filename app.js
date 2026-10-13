@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Eleventh Stitch — site engine
+ The Soft Room— site engine
    Header/footer rendering, cart state, filters, PDP, checkout, WhatsApp orders.
    Depends on products.js (STORE, CATEGORIES, PRODUCTS, REVIEWS, FAQS)
    ========================================================================== */
